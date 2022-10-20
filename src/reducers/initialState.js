@@ -1,6 +1,4 @@
-//Este es un objeto que representa el estado y muestra los productos por defecto
-//Devuelve los productos predeterminados y un arreglo vacío "cart"
-//que es nuestro  estado inicial para el carro de compras
+
 
 
 export default {
@@ -29,8 +27,8 @@ export default {
     },
     {
       id: 4,
-      name: "Monopoly Clásico",
-      category:"Juegos de Mesa",
+      name: "Monitor Acer",
+      category:"Monitores",
       price: 10990,
       
     }
